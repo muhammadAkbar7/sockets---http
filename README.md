@@ -14,3 +14,17 @@ For the “Using a Socket to get a file” program: python connect-socket.py
 For “GET the data for a large file” program: python get-large.py
 
 For “The world’s simples HTTP server”: python server.py
+
+# Screenshots:
+![Alt Text](./screen1.png)
+
+![Alt Text](./screen2.png)
+
+![Alt Text](./screen3.png)
+
+![Alt Text](./screen4.png)
+
+![Alt Text](./screen5.png)
+
+![Alt Text](./screen6.png)
+
